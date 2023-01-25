@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @allanssematimba
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning Tableau & Python.
-- 💞️ I’m looking to collaborate on data analysis projects (SQL, Excel, Tableau)
-- 📫 How to reach me allanssematimba1@gmail.com
+- 👀 I’m an ML Engineer who builds and deploys machine learning models.
+- 🌱 I’m proficient in Python and its popular ML libraries such as TensorFlow, scikit-learn, and Keras.
+- 💞️ I have a solid understanding of supervised and unsupervised learning, feature engineering and selection.
+- 📫 I'm always eager to learn and stay updated. Find my recent projects or reach me at allanssematimba1@gmail.com
 
 <!---
 allanssematimba/allanssematimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
